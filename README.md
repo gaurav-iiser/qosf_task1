@@ -9,4 +9,4 @@ This contains the .ipynb file to exceute the task 1 of qosf mentorship program.
     a. A histogram indicating the states of superpostion and their coefficient in the superposed state.<br>
     b. The state vector of the final quantum state.
 
-# The code works for any kind of list of integers, even for lists with repeated entries.
+#### The code works for any kind of list of integers, even for lists with repeated entries.
