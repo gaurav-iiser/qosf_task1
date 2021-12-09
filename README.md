@@ -1,6 +1,6 @@
 # qosf_task1
 
-This contains the .ipynb file to exceute the task 1 of qosf mentorship program.
+This contains the .ipynb file to exceute the task 1 of qosf mentorship program. The code is written using QISKIT.
 ### To execute the code:
 1. Run the given two blocks of codes.
 2. Then define a variable of type Task_1 and initialize it with the list of integers (of any length) as follows:<br>
